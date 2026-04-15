@@ -1,11 +1,6 @@
 package app;
 
 public class Main {
-
-
-
-
-
         public static void main(String[] args) {
             Customer customer = getCustomer(getData());
             String output = "Customer: "+ customer.getName() +
